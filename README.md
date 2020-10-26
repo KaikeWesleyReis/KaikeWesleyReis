@@ -1,5 +1,5 @@
 ### Hi, I'm Kaike!
-Data Scientist, Analyst and Solve Maker!
+Data Scientist, Analyst and "SolveMaker"!
 - [x] Artificial Intelligence Enthusiast
 - [ ] Bachelor in Automation Engineering at Federal University of Bahia (UFBA)
 
