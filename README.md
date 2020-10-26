@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hi, I'm Kaike!
+Data Scientist, Analyst and Solve Maker!
+- [x] Artificial Intelligence Enthusiast
+- [ ] Bachelor in Automation Engineering at Federal University of Bahia (UFBA)
 
-- 🔭 I’m currently working on `Data Science` and finishing my bachelor degree in `Engineering`
+Besides that:
+- 💼 Working on: **BIX Tecnologia**
 - 🌱 I’m currently learning about ML and how can I turn my model explainable
-- 📫 How to reach me: kaikewesley@hotmail.com
 - ⚡ Fun fact: I started in this field because of `Harbinger in Mass Effect 2` 
-
+- 📫 How to reach me: kaikewesley@hotmail.com
