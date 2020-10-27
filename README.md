@@ -4,7 +4,8 @@ Data Scientist, Analyst and "SolveMaker"!
 - [ ] Bachelor in Automation Engineering at Federal University of Bahia (UFBA)
 
 Besides that:
-- 💼 Working on: **BIX Tecnologia**
+- 💼 Working at **BIX Tecnologia** as Intern
 - 🌱 I’m currently learning about ML and how can I turn my model explainable
+- 📫 You can reach me sending an e-mail for kaikewesley@hotmail.com
 - ⚡ Fun fact: I started in this field because of `Harbinger in Mass Effect 2` 
-- 📫 How to reach me: kaikewesley@hotmail.com
+
