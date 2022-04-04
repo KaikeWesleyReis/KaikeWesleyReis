@@ -21,10 +21,10 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-05122A?style=flat&logo=amazon-aws&logoColor=A8B9CC)&nbsp;
 
 ### Visualization
-![Qlik Sense]()&nbsp;
+![Qlik Sense](https://img.shields.io/badge/-Qlik%20Sense-05122A?style=flat&logo=Qualcomm)&nbsp;
 ![Plotly](https://img.shields.io/badge/-Plotly-05122A?style=flat&logo=plotly)&nbsp;
-![Seaborn]()&nbsp;
-
+![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=deezer)&nbsp;
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=Bookmeter)&nbsp;
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=A8B9CC)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=A8B9CC)&nbsp;
