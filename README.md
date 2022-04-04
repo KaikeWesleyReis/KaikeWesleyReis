@@ -13,12 +13,12 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
 ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy)&nbsp;
 ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=scikit-learn)&nbsp;
-![Tensorflow]()&nbsp;
-![Git]()&nbsp;
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
 ### Cloud Services
-![GCP]()&nbsp;
-![AWS]()&nbsp;
+![GCP](https://img.shields.io/badge/Google_Cloud-05122A?style=flat&logo=google-cloud&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/Amazon_AWS-05122A?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 
 ### Visualization
 ![Qlik Sense]()&nbsp;
