@@ -8,24 +8,18 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-### Data Science
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=Jupyter)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
 ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy)&nbsp;
 ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=scikit-learn)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-
-### Cloud Services
 ![GCP](https://img.shields.io/badge/Google_Cloud-05122A?style=flat&logo=google-cloud&logoColor=A8B9CC)&nbsp;
 ![AWS](https://img.shields.io/badge/Amazon_AWS-05122A?style=flat&logo=amazon-aws&logoColor=A8B9CC)&nbsp;
-
-### Visualization
 ![Qlik Sense](https://img.shields.io/badge/-Qlik%20Sense-05122A?style=flat&logo=Qualcomm)&nbsp;
 ![Plotly](https://img.shields.io/badge/-Plotly-05122A?style=flat&logo=plotly)&nbsp;
 ![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=deezer)&nbsp;
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=Bookmeter)&nbsp;
-### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=A8B9CC)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=A8B9CC)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
