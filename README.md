@@ -4,7 +4,7 @@
 
 📊 &nbsp; Data Scientist Specialist at [Accenture](https://www.accenture.com/br-pt)\
 🎓 &nbsp; Automation and Control Engineer at the Federal University of Bahia\
-🤖 &nbsp; AI enthusiast. Passionate about innovation and AI comprehension.
+🤖 &nbsp; AI enthusiast & passionate about innovation.
 
 ## 🛠 &nbsp;Tech Stack
 
