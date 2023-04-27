@@ -2,9 +2,10 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-📊 &nbsp; Data Scientist Specialist at [Accenture](https://www.accenture.com/br-pt)\
+📊 &nbsp; Data Scientist II at [Itaú Unibanco](https://www.itau.com.br/)\
 🎓 &nbsp; Automation and Control Engineer at the Federal University of Bahia\
-🤖 &nbsp; AI enthusiast & passionate about innovation
+🤖 &nbsp; AI enthusiast & passionate about innovation\
+📚 &nbsp; Improving to become a NLP specialist in Brazil
 
 ## 🛠 &nbsp;Tech Stack
 
