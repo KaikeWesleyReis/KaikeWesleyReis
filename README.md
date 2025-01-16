@@ -2,10 +2,14 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-📊 &nbsp; Data Scientist II at [Itaú Unibanco](https://www.itau.com.br/)\
+📊 &nbsp; Data Scientist Senior at [Itaú Unibanco](https://www.itau.com.br/)\
 🎓 &nbsp; Automation and Control Engineer at the Federal University of Bahia\
 🤖 &nbsp; AI enthusiast & passionate about innovation\
-📚 &nbsp; Improving to become a NLP specialist in Brazil
+📚 &nbsp; Improving to become the best NLP Specialist in Brazil
+
+One day ... I'll create my own personal chatbot: **Harbinger, the first reaper**. 
+
+A sample of my personal chatbot project is [here](https://www.youtube.com/watch?v=Yl7HTMCmz-g).
 
 ## 🛠 &nbsp;Tech Stack
 
