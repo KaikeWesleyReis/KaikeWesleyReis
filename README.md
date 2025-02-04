@@ -2,10 +2,10 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-📊 &nbsp; Data Scientist Senior at [Itaú Unibanco](https://www.itau.com.br/)\
+📊 &nbsp; Machine Learning Engineer & Data Scientist - Senior \
 🎓 &nbsp; Automation and Control Engineer at the Federal University of Bahia\
 🤖 &nbsp; AI enthusiast & passionate about innovation\
-📚 &nbsp; Improving to become the best NLP Specialist in Brazil
+📚 &nbsp; Improving to become the best NLP / LLM Specialist in Brazil
 
 One day ... I'll create my own personal chatbot: **Harbinger, the first reaper**. 
 
@@ -22,12 +22,8 @@ A sample of my personal chatbot project is [here](https://www.youtube.com/watch?
 ![GCP](https://img.shields.io/badge/Google_Cloud-05122A?style=flat&logo=google-cloud&logoColor=A8B9CC)&nbsp;
 ![AWS](https://img.shields.io/badge/Amazon_AWS-05122A?style=flat&logo=amazon-aws&logoColor=A8B9CC)&nbsp;
 ![Qlik Sense](https://img.shields.io/badge/-Qlik%20Sense-05122A?style=flat&logo=Qualcomm)&nbsp;
-![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=deezer)&nbsp;
-![Plotly](https://img.shields.io/badge/-Plotly-05122A?style=flat&logo=plotly)&nbsp;
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=Bookmeter)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=A8B9CC)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=A8B9CC)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-05122A?style=flat&logo=c%2B%2B&logoColor=A8B9CC)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-05122A?style=flat&logo=mysql&logoColor=A8B9CC)&nbsp;
 
